@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Slimene FELLAH</h1>
 <h3 align="center">MERN STACK DEVELOPER | AI And Cyber security enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimenfellah" alt="slimenfellah" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimenfellah" alt="slimenfellah" /></a> </p> -->
 
 - 🌱 I’m currently learning **Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
 
-- 💬 Ask me about **MERN STACK | Computer Science | Astronomy or phyisics**
+- 💬 Ask me about **MERN STACK | Computer Science | Astronomy or phyisics 💫🧠**
 
-- 📫 How to reach me **slmnfellah123@gmail.com**
+- 📫 How to reach me **ls_fellah@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
