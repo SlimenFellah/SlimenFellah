@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
 
-- 💬 Ask me about **MERN STACK | Computer Science | Astronomy or phyisics 💫🧠**
+- 💬 Ask me about **MERN STACK | Computer Science | Astronomy and phyisics 💫🧠**
 
 - 📫 How to reach me **ls_fellah@esi.dz**
 
