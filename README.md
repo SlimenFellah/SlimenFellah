@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimenfellah" alt="slimenfellah" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber sequrity**
+- 🌱 I’m currently learning **Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
 
-- 💬 Ask me about **MERN STACK | Computer Science**
+- 💬 Ask me about **MERN STACK | Computer Science | Astronomy or phyisics**
 
 - 📫 How to reach me **slmnfellah123@gmail.com**
 
