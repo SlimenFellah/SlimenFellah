@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slimene FELLAH</h1>
-<h3 align="center">MERN STACK DEVELOPER | AI And Cyber security enthusiast</h3>
+<h3 align="center">MERN STACK DEVELOPER | AI enthusiast</h3>
 
 ![image](https://github.com/SlimenFellah/slimenfellah/blob/main/img.png)
 
