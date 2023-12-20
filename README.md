@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimenfellah" alt="slimenfellah" /></a> </p> -->
 
-- 🌱 I’m currently learning **Cyber security**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
 
