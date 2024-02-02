@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
+- 👨‍💻 All of my projects are available at [https://slimenefellah.vercel.app/](https://slimenefellah.vercel.app/)
 
 - 💬 Ask me about **MERN STACK | Computer Science | Astronomy and physics 💫🧠**
 
 - 📫 How to reach me **ls_fellah@esi.dz**
 
-- ⚡ Fun fact **I always forget to add ; at the end of code lines **
+- ⚡ Fun fact **I always forget to add ; at the end of code lines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
