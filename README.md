@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ls_fellah@esi.dz**
 
-- ⚡ Fun fact **I always forget to add ; at the end of code lines || I drink coffee more than water**
+- ⚡ Fun fact **I always forget to add ; at the end of code lines **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
