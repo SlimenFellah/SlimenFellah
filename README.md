@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://slimenfellah.github.io/portfolioStatic/](https://slimenfellah.github.io/portfolioStatic/)
 
-- 💬 Ask me about **MERN STACK | Computer Science | Astronomy and phyisics 💫🧠**
+- 💬 Ask me about **MERN STACK | Computer Science | Astronomy and physics 💫🧠**
 
 - 📫 How to reach me **ls_fellah@esi.dz**
 
-- ⚡ Fun fact **I always forget to add ; at the end of code lines**
+- ⚡ Fun fact **I always forget to add ; at the end of code lines || I drink coffee more than water**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
