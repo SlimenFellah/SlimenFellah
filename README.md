@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slimene FELLAH</h1>
-<h3 align="center">MERN STACK DEVELOPER | AI enthusiast</h3>
+<h3 align="center">Web developer | AI enthusiast</h3>
 
 ![image](https://github.com/SlimenFellah/slimenfellah/blob/main/img.png)
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://slimenefellah.vercel.app/](https://slimenefellah.vercel.app/)
 
-- 💬 Ask me about **MERN STACK | Computer Science | Astronomy and physics 💫🧠**
+- 💬 Ask me about **Web development | AI | Computer Science | Astronomy and physics 💫🧠**
 
-- 📫 How to reach me **ls_fellah@esi.dz**
+- 📫 How to reach me **fellah.slimene@gmail.com**
 
 - ⚡ Fun fact **I always forget to add ; at the end of code lines**
 
